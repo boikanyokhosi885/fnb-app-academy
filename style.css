@@ -1,0 +1,30 @@
+h1{
+  color: green;
+  font-family: sans-serif;
+
+}
+p{
+    color: red;
+    font-family:fantasy;
+}
+
+ul{
+    list-style-type: circle;
+
+}
+
+ol{
+     list-style-type: upper-roman;
+}
+
+#menu-bar a{
+   text-decoration: none;
+   background-color: aquamarine;
+}
+#menu-bar a:hover{
+
+   background-color: aqua;
+   color:#ffffff;
+   font-family: helvetica, sans serif;
+   padding: 5px;
+}
